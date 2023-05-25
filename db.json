@@ -1,6 +1,7 @@
 {
     "dogs":[
         {
+            "id":1,
             "name":"Zimmy",
             "age":25,
             "gender":"male",
