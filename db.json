@@ -1,0 +1,10 @@
+{
+    "dogs":[
+        {
+            "name":"Zimmy",
+            "age":25,
+            "gender":"male",
+            "place":"Delhi"
+        }
+    ]
+}
